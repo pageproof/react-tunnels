@@ -1,0 +1,28 @@
+{
+  "name": "@pageproof/react-tunnels",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.1",
+    "typescript": "^4.2.3"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
+  },
+  "author": {
+    "name": "Jacob Marshall",
+    "email": "jacob@pageproof.com",
+    "url": "https://pageproof.com"
+  },
+  "homepage": "https://github.com/pageproof/react-tunnels",
+  "bugs": {
+    "url": "https://github.com/pageproof/react-tunnels/issues/new"
+  },
+  "files": [
+    "lib"
+  ]
+}
