@@ -13,11 +13,7 @@
   "peerDependencies": {
     "react": "^16.0.0"
   },
-  "author": {
-    "name": "Jacob Marshall",
-    "email": "jacob@pageproof.com",
-    "url": "https://pageproof.com"
-  },
+  "author": "Jacob Marshall <jacob@pageproof.com> (https://pageproof.com)",
   "homepage": "https://github.com/pageproof/react-tunnels",
   "bugs": {
     "url": "https://github.com/pageproof/react-tunnels/issues/new"
